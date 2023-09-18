@@ -1,0 +1,15 @@
+asgiref==3.7.2
+certifi==2023.7.22
+charset-normalizer==3.2.0
+Django==4.2.3
+django-extensions==3.2.3
+django-materializecss-form==1.1.17
+django-rest-framework==0.1.0
+djangorestframework==3.14.0
+idna==3.4
+python-decouple==3.8
+pytz==2023.3
+requests==2.31.0
+sqlparse==0.4.4
+typing-extensions==4.7.1
+urllib3==2.0.4
